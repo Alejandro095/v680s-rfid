@@ -1,0 +1,14 @@
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\bin\Debug\v680s-RFID.exe.config
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\bin\Debug\v680s-RFID.exe
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\bin\Debug\v680s-RFID.pdb
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\obj\Debug\v680s-RFID.csproj.AssemblyReference.cache
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\obj\Debug\v680s-RFID.csproj.SuggestedBindingRedirects.cache
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\obj\Debug\v680s_RFID.Form1.resources
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\obj\Debug\v680s_RFID.Properties.Resources.resources
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\obj\Debug\v680s-RFID.csproj.GenerateResource.cache
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\obj\Debug\v680s-RFID.csproj.CoreCompileInputs.cache
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\obj\Debug\v680s-RFID.exe
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\obj\Debug\v680s-RFID.pdb
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\bin\Debug\EasyModbus.dll
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\bin\Debug\EasyModbus.xml
+C:\Users\Quake\source\repos\v680s-RFID\v680s-RFID\obj\Debug\v680s-RFID.csproj.CopyComplete
